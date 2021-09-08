@@ -30,7 +30,7 @@ https://github.com/yhatt/marp-cli-example
 
 ##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
 
-##### <!--fit--> 👉 C'est moi qui l'est faitt<br />your Marp deck on the web
+##### <!--fit--> 👉 C'est moi qui l'est faitt<br />yET c'est bien MOIIIIeb
 
 ---
 
